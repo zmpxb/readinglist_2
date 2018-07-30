@@ -1,0 +1,11 @@
+spring:
+  main:
+    show-banner: false
+  thymeleaf:
+    cache: false
+
+server:
+  port: 8000
+
+amazon:
+  associateId: habuma-20
