@@ -4,8 +4,22 @@ spring:
   thymeleaf:
     cache: false
 
-server:
-  port: 8080
+#server:
+#  port: 8080
+#management:
+#  port: 54001
+#  health:
+#    mail:
+#      enabled: false
+
 
 amazon:
   associateId: habuma-20
+
+#management:
+# security:
+#    enabled: false
+#
+#management:
+#  port: 9090
+
